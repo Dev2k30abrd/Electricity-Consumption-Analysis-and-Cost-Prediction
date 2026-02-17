@@ -1,3 +1,6 @@
+## Live App
+https://electricity-consumption-analysis-and-cost-prediction-tncywqdul.streamlit.app/
+
 # Electricity Consumption Analysis and Cost Prediction
 Python-based application to analyze electricity consumption and cost
 
